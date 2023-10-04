@@ -14,8 +14,8 @@ Considérez BASH comme un langage de programmation conçu pour communiquer avec 
 
 - Créez un fichier nommé `myfirstscript.sh`.
 - Écrivez à l'intérieur votre premier script : `echo "I'm a script"`.
-- Donnez les droits d'exécution au fichier.
-- Exécutez le script.
+- Donnez les droits d'exécution au fichier : `chmod +x myfirstscript.sh`
+- Exécutez le script : `./myfirstscript.sh`
 
 ### Job 02 - Mise à jour du gestionnaire de paquets
 

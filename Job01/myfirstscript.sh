@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "i'm a script"
+echo "I'm a script"
